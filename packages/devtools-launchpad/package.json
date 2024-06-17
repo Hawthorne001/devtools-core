@@ -92,7 +92,7 @@
     "webpack-dev-middleware": "^1.11.0",
     "webpack-env-loader-plugin": "^1.0.0",
     "webpack-hot-middleware": "^2.18.2",
-    "ws": "^1.0.1"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "eslint": "^3.12.0",

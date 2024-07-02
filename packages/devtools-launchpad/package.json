@@ -88,7 +88,7 @@
     "svg-inline-loader": "^0.8.0",
     "svg-inline-react": "3.0.0",
     "url-loader": "^0.5.9",
-    "webpack": "^3.3.0",
+    "webpack": "^4.0.0",
     "webpack-dev-middleware": "^1.11.0",
     "webpack-env-loader-plugin": "^1.0.0",
     "webpack-hot-middleware": "^2.18.2",

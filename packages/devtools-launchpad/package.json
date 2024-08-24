@@ -70,7 +70,7 @@
     "minimist": "^1.2.0",
     "mustache": "^2.2.1",
     "node-static": "^0.7.7",
-    "postcss": "^6.0.6",
+    "postcss": "^8.4.31",
     "postcss-class-namespace": "^0.1.0",
     "postcss-loader": "^2.0.6",
     "postcss-url-mapper": "^1.2.0",
@@ -89,7 +89,7 @@
     "svg-inline-react": "3.0.0",
     "url-loader": "^0.5.9",
     "webpack": "^3.3.0",
-    "webpack-dev-middleware": "^1.11.0",
+    "webpack-dev-middleware": "^5.3.4",
     "webpack-env-loader-plugin": "^1.0.0",
     "webpack-hot-middleware": "^2.18.2",
     "ws": "^1.0.1"

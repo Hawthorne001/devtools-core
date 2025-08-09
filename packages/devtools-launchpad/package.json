@@ -83,7 +83,7 @@
     "react-dom-factories": "^1.0.2",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2",
-    "selenium-webdriver": "=3.6.0",
+    "selenium-webdriver": "4.0.0",
     "style-loader": "^0.18.2",
     "svg-inline-loader": "^0.8.0",
     "svg-inline-react": "3.0.0",
